@@ -53,8 +53,7 @@ Datasets and trained models are large and are **never committed to Git**. Each p
 
 | Dataset | Used for | How to get it |
 | --- | --- | --- |
-| WLASL (100-sign subset) | Tier 1 | https://github.com/dxli94/WLASL |
-| ASL Citizen | Tier 1 | https://www.microsoft.com/en-us/research/project/asl-citizen/dataset-description/ |
+| ASL Citizen (100-sign subset, use its signer-based splits) | Tier 1 | https://www.microsoft.com/en-us/research/project/asl-citizen/dataset-description/ |
 | Google ASL Fingerspelling | Tier 2 | https://www.kaggle.com/competitions/asl-fingerspelling/overview |
 
 Check each dataset's license and access terms before downloading.
