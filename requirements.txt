@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+jupyter
+
+# Vision
+opencv-python
+mediapipe
+
+# Deep learning: keep ONE of the two lines below, delete the other
+tensorflow
+# torch
