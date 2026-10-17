@@ -11,5 +11,4 @@ opencv-python
 mediapipe
 
 # Deep learning: keep ONE of the two lines below, delete the other
-tensorflow
-# torch
+torch
